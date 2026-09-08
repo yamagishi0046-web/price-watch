@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://yamagishi0046-web.github.io/price-watch/</loc></url>
+<url><loc>https://yamagishi0046-web.github.io/price-watch/led-desk-lamp/</loc><lastmod>2026-09-08</lastmod></url>
+<url><loc>https://yamagishi0046-web.github.io/price-watch/pet-water/</loc><lastmod>2026-09-08</lastmod></url>
+<url><loc>https://yamagishi0046-web.github.io/price-watch/air-purifier/</loc><lastmod>2026-09-08</lastmod></url>
+<url><loc>https://yamagishi0046-web.github.io/price-watch/electric-kettle/</loc><lastmod>2026-09-08</lastmod></url>
+<url><loc>https://yamagishi0046-web.github.io/price-watch/earbuds-anc/</loc><lastmod>2026-09-08</lastmod></url>
+<url><loc>https://yamagishi0046-web.github.io/price-watch/kvm-switch/</loc><lastmod>2026-09-08</lastmod></url>
+<url><loc>https://yamagishi0046-web.github.io/price-watch/wireless-mouse/</loc><lastmod>2026-09-08</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/robot-vacuum/</loc><lastmod>2026-09-07</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/blender/</loc><lastmod>2026-09-07</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/power-bank/</loc><lastmod>2026-09-07</lastmod></url>
@@ -10,9 +17,6 @@
 <url><loc>https://yamagishi0046-web.github.io/price-watch/ssd-external/</loc><lastmod>2026-09-05</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/rice-cooker/</loc><lastmod>2026-09-05</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/mechanical-kb/</loc><lastmod>2026-09-05</lastmod></url>
-<url><loc>https://yamagishi0046-web.github.io/price-watch/earbuds-anc/</loc><lastmod>2026-09-05</lastmod></url>
-<url><loc>https://yamagishi0046-web.github.io/price-watch/pet-water/</loc><lastmod>2026-09-05</lastmod></url>
-<url><loc>https://yamagishi0046-web.github.io/price-watch/air-purifier/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/camp-chair/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/cat-tower/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/coffee-grinder/</loc><lastmod>2026-09-04</lastmod></url>
@@ -21,7 +25,6 @@
 <url><loc>https://yamagishi0046-web.github.io/price-watch/desk-standing/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/fan-circulator/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/headphone-over/</loc><lastmod>2026-09-04</lastmod></url>
-<url><loc>https://yamagishi0046-web.github.io/price-watch/kvm-switch/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/laptop-stand/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/led-lantern/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/microwave/</loc><lastmod>2026-09-04</lastmod></url>
@@ -38,15 +41,12 @@
 <url><loc>https://yamagishi0046-web.github.io/price-watch/usb-mic/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/vacuum-stick/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/water-server/</loc><lastmod>2026-09-04</lastmod></url>
-<url><loc>https://yamagishi0046-web.github.io/price-watch/wireless-mouse/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/air-fryer/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/camp-stove/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/camp-table/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/cooler-box/</loc><lastmod>2026-09-04</lastmod></url>
-<url><loc>https://yamagishi0046-web.github.io/price-watch/electric-kettle/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/hot-plate/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/humidifier/</loc><lastmod>2026-09-04</lastmod></url>
-<url><loc>https://yamagishi0046-web.github.io/price-watch/led-desk-lamp/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/office-chair/</loc><lastmod>2026-09-04</lastmod></url>
 <url><loc>https://yamagishi0046-web.github.io/price-watch/webcam/</loc><lastmod>2026-09-04</lastmod></url>
 </urlset>
