@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://yamagishi0046-web.github.io/price-watch/sitemap.xml
+Sitemap: https://yamagishi0046-web.github.io/price-watch/feed.xml
