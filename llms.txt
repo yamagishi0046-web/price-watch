@@ -8,7 +8,7 @@
 
 ## カテゴリ別の相場
 
-- [27インチモニターの相場と買い時](https://yamagishi0046-web.github.io/price-watch/monitor-27/): 中央値 18,999円、判定「いつも通りの相場」（11/3時点・57件）
+- [27インチモニターの相場と買い時](https://yamagishi0046-web.github.io/price-watch/monitor-27/): 中央値 18,904円、判定「いつも通りの相場」（11/10時点・56件）
 - [KVM切替器の相場と買い時](https://yamagishi0046-web.github.io/price-watch/kvm-switch/): 中央値 6,780円、判定「いつも通りの相場」（11/5時点・52件）
 - [NVMeケースの相場と買い時](https://yamagishi0046-web.github.io/price-watch/nvme-case/): 中央値 3,285円、判定「いつも通りの相場」（11/8時点・30件）
 - [USB-Cハブの相場と買い時](https://yamagishi0046-web.github.io/price-watch/usb-c-hub/): 中央値 3,335円、判定「いつも通りの相場」（11/4時点・60件）
@@ -19,9 +19,9 @@
 - [モニターアームの相場と買い時](https://yamagishi0046-web.github.io/price-watch/monitor-arm/): 中央値 7,630円、判定「いつも通りの相場」（11/6時点・39件）
 - [モバイルバッテリーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/power-bank/): 中央値 4,144円、判定「いつも通りの相場」（11/7時点・60件）
 - [ワイヤレスマウスの相場と買い時](https://yamagishi0046-web.github.io/price-watch/wireless-mouse/): 中央値 2,090円、判定「いつも通りの相場」（11/7時点・60件）
-- [外付けSSDの相場と買い時](https://yamagishi0046-web.github.io/price-watch/ssd-external/): 中央値 23,390円、判定「いつも通りの相場」（11/3時点・60件）
+- [外付けSSDの相場と買い時](https://yamagishi0046-web.github.io/price-watch/ssd-external/): 中央値 24,740円、判定「いつも通りの相場」（11/10時点・60件）
 - [LEDランタンの相場と買い時](https://yamagishi0046-web.github.io/price-watch/led-lantern/): 中央値 3,800円、判定「いつも通りの相場」（11/9時点・60件）
-- [キャンプチェアの相場と買い時](https://yamagishi0046-web.github.io/price-watch/camp-chair/): 中央値 3,911円、判定「いつも通りの相場」（11/3時点・60件）
+- [キャンプチェアの相場と買い時](https://yamagishi0046-web.github.io/price-watch/camp-chair/): 中央値 3,976円、判定「いつも通りの相場」（11/10時点・60件）
 - [キャンプテーブルの相場と買い時](https://yamagishi0046-web.github.io/price-watch/camp-table/): 中央値 5,810円、判定「いつも通りの相場」（11/5時点・60件）
 - [クーラーボックスの相場と買い時](https://yamagishi0046-web.github.io/price-watch/cooler-box/): 中央値 3,980円、判定「いつも通りの相場」（11/6時点・60件）
 - [シングルバーナーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/camp-stove/): 中央値 4,430円、判定「いつも通りの相場」（11/9時点・59件）
@@ -30,7 +30,7 @@
 - [Bluetoothスピーカーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/speaker-bt/): 中央値 4,965円、判定「いつも通りの相場」（11/6時点・60件）
 - [USB DACの相場と買い時](https://yamagishi0046-web.github.io/price-watch/dac-amp/): 中央値 14,580円、判定「いつも通りの相場」（11/8時点・43件）
 - [USBマイクの相場と買い時](https://yamagishi0046-web.github.io/price-watch/usb-mic/): 中央値 6,955円、判定「いつも通りの相場」（11/7時点・46件）
-- [オーバーイヤーヘッドホンの相場と買い時](https://yamagishi0046-web.github.io/price-watch/headphone-over/): 中央値 10,480円、判定「いつも通りの相場」（11/3時点・34件）
+- [オーバーイヤーヘッドホンの相場と買い時](https://yamagishi0046-web.github.io/price-watch/headphone-over/): 中央値 9,940円、判定「いつも通りの相場」（11/10時点・34件）
 - [サウンドバーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/soundbar/): 中央値 18,895円、判定「いつも通りの相場」（11/8時点・54件）
 - [ノイキャンイヤホンの相場と買い時](https://yamagishi0046-web.github.io/price-watch/earbuds-anc/): 中央値 5,785円、判定「いつも通りの相場」（11/7時点・60件）
 - [コーヒーミルの相場と買い時](https://yamagishi0046-web.github.io/price-watch/coffee-grinder/): 中央値 5,500円、判定「いつも通りの相場」（11/6時点・59件）
@@ -44,11 +44,11 @@
 - [オフィスチェアの相場と買い時](https://yamagishi0046-web.github.io/price-watch/office-chair/): 中央値 13,480円、判定「いつも通りの相場」（11/4時点・60件）
 - [キャットタワーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/cat-tower/): 中央値 10,680円、判定「いつも通りの相場」（11/5時点・60件）
 - [シュレッダーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/shredder/): 中央値 10,795円、判定「いつも通りの相場」（11/7時点・38件）
-- [デスクライトの相場と買い時](https://yamagishi0046-web.github.io/price-watch/led-desk-lamp/): 中央値 2,730円、判定「いつも通りの相場」（11/3時点・60件）
+- [デスクライトの相場と買い時](https://yamagishi0046-web.github.io/price-watch/led-desk-lamp/): 中央値 2,889円、判定「いつも通りの相場」（11/10時点・60件）
 - [ペット給水器の相場と買い時](https://yamagishi0046-web.github.io/price-watch/pet-water/): 中央値 3,980円、判定「いつも通りの相場」（11/8時点・60件）
 - [昇降デスクの相場と買い時](https://yamagishi0046-web.github.io/price-watch/desk-standing/): 中央値 38,980円、判定「いつも通りの相場」（11/7時点・47件）
 - [自動給餌器の相場と買い時](https://yamagishi0046-web.github.io/price-watch/pet-feeder/): 中央値 8,294円、判定「いつも通りの相場」（11/9時点・60件）
-- [サーキュレーターの相場と買い時](https://yamagishi0046-web.github.io/price-watch/fan-circulator/): 中央値 8,980円、判定「いつも通りの相場」（11/3時点・60件）
+- [サーキュレーターの相場と買い時](https://yamagishi0046-web.github.io/price-watch/fan-circulator/): 中央値 8,880円、判定「いつも通りの相場」（11/10時点・60件）
 - [スティック掃除機の相場と買い時](https://yamagishi0046-web.github.io/price-watch/vacuum-stick/): 中央値 19,895円、判定「いつも通りの相場」（11/9時点・60件）
 - [ドライヤーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/hair-dryer/): 中央値 8,785円、判定「いつも通りの相場」（11/4時点・60件）
 - [ロボット掃除機の相場と買い時](https://yamagishi0046-web.github.io/price-watch/robot-vacuum/): 中央値 39,800円、判定「いつも通りの相場」（11/6時点・59件）
