@@ -24,7 +24,7 @@
 - [27インチモニターの相場と買い時](https://yamagishi0046-web.github.io/price-watch/monitor-27/): 中央値 17,980円、判定「いつも通りの相場」（11/17時点・55件）。平文: https://yamagishi0046-web.github.io/price-watch/monitor-27/index.md
 - [KVM切替器の相場と買い時](https://yamagishi0046-web.github.io/price-watch/kvm-switch/): 中央値 6,868円、判定「いつも通りの相場」（11/12時点・46件）。平文: https://yamagishi0046-web.github.io/price-watch/kvm-switch/index.md
 - [NVMeケースの相場と買い時](https://yamagishi0046-web.github.io/price-watch/nvme-case/): 中央値 3,124円、判定「いつも通りの相場」（11/15時点・30件）。平文: https://yamagishi0046-web.github.io/price-watch/nvme-case/index.md
-- [USB-Cハブの相場と買い時](https://yamagishi0046-web.github.io/price-watch/usb-c-hub/): 中央値 3,330円、判定「いつも通りの相場」（11/11時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/usb-c-hub/index.md
+- [USB-Cハブの相場と買い時](https://yamagishi0046-web.github.io/price-watch/usb-c-hub/): 中央値 3,385円、判定「いつも通りの相場」（11/18時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/usb-c-hub/index.md
 - [Webカメラの相場と買い時](https://yamagishi0046-web.github.io/price-watch/webcam/): 中央値 3,391円、判定「いつも通りの相場」（11/16時点・44件）。平文: https://yamagishi0046-web.github.io/price-watch/webcam/index.md
 - [Wi-Fiルーターの相場と買い時](https://yamagishi0046-web.github.io/price-watch/wifi-router/): 中央値 14,960円、判定「いつも通りの相場」（11/15時点・58件）。平文: https://yamagishi0046-web.github.io/price-watch/wifi-router/index.md
 - [ノートPCスタンドの相場と買い時](https://yamagishi0046-web.github.io/price-watch/laptop-stand/): 中央値 2,980円、判定「いつも通りの相場」（11/12時点・59件）。平文: https://yamagishi0046-web.github.io/price-watch/laptop-stand/index.md
@@ -38,7 +38,7 @@
 - [キャンプテーブルの相場と買い時](https://yamagishi0046-web.github.io/price-watch/camp-table/): 中央値 6,490円、判定「いつも通りの相場」（11/12時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/camp-table/index.md
 - [クーラーボックスの相場と買い時](https://yamagishi0046-web.github.io/price-watch/cooler-box/): 中央値 4,345円、判定「いつも通りの相場」（11/13時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/cooler-box/index.md
 - [シングルバーナーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/camp-stove/): 中央値 5,280円、判定「いつも通りの相場」（11/16時点・59件）。平文: https://yamagishi0046-web.github.io/price-watch/camp-stove/index.md
-- [ソロテントの相場と買い時](https://yamagishi0046-web.github.io/price-watch/tent-solo/): 中央値 12,890円、判定「いつも通りの相場」（11/11時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/tent-solo/index.md
+- [ソロテントの相場と買い時](https://yamagishi0046-web.github.io/price-watch/tent-solo/): 中央値 11,990円、判定「いつも通りの相場」（11/18時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/tent-solo/index.md
 - [寝袋の相場と買い時](https://yamagishi0046-web.github.io/price-watch/sleeping-bag/): 中央値 5,880円、判定「いつも通りの相場」（11/13時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/sleeping-bag/index.md
 - [Bluetoothスピーカーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/speaker-bt/): 中央値 5,189円、判定「いつも通りの相場」（11/13時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/speaker-bt/index.md
 - [USB DACの相場と買い時](https://yamagishi0046-web.github.io/price-watch/dac-amp/): 中央値 14,550円、判定「いつも通りの相場」（11/15時点・40件）。平文: https://yamagishi0046-web.github.io/price-watch/dac-amp/index.md
@@ -54,7 +54,7 @@
 - [炊飯器の相場と買い時](https://yamagishi0046-web.github.io/price-watch/rice-cooker/): 中央値 17,055円、判定「いつも通りの相場」（11/16時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/rice-cooker/index.md
 - [電子レンジの相場と買い時](https://yamagishi0046-web.github.io/price-watch/microwave/): 中央値 19,800円、判定「いつも通りの相場」（11/15時点・58件）。平文: https://yamagishi0046-web.github.io/price-watch/microwave/index.md
 - [電気ケトルの相場と買い時](https://yamagishi0046-web.github.io/price-watch/electric-kettle/): 中央値 7,130円、判定「いつも通りの相場」（11/13時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/electric-kettle/index.md
-- [オフィスチェアの相場と買い時](https://yamagishi0046-web.github.io/price-watch/office-chair/): 中央値 13,480円、判定「いつも通りの相場」（11/11時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/office-chair/index.md
+- [オフィスチェアの相場と買い時](https://yamagishi0046-web.github.io/price-watch/office-chair/): 中央値 14,980円、判定「いつも通りの相場」（11/18時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/office-chair/index.md
 - [キャットタワーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/cat-tower/): 中央値 10,450円、判定「いつも通りの相場」（11/12時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/cat-tower/index.md
 - [シュレッダーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/shredder/): 中央値 10,945円、判定「いつも通りの相場」（11/14時点・38件）。平文: https://yamagishi0046-web.github.io/price-watch/shredder/index.md
 - [デスクライトの相場と買い時](https://yamagishi0046-web.github.io/price-watch/led-desk-lamp/): 中央値 2,680円、判定「いつも通りの相場」（11/17時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/led-desk-lamp/index.md
@@ -63,12 +63,12 @@
 - [自動給餌器の相場と買い時](https://yamagishi0046-web.github.io/price-watch/pet-feeder/): 中央値 8,695円、判定「いつも通りの相場」（11/16時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/pet-feeder/index.md
 - [サーキュレーターの相場と買い時](https://yamagishi0046-web.github.io/price-watch/fan-circulator/): 中央値 8,980円、判定「いつも通りの相場」（11/17時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/fan-circulator/index.md
 - [スティック掃除機の相場と買い時](https://yamagishi0046-web.github.io/price-watch/vacuum-stick/): 中央値 20,300円、判定「いつも通りの相場」（11/16時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/vacuum-stick/index.md
-- [ドライヤーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/hair-dryer/): 中央値 8,785円、判定「いつも通りの相場」（11/11時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/hair-dryer/index.md
+- [ドライヤーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/hair-dryer/): 中央値 8,040円、判定「いつも通りの相場」（11/18時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/hair-dryer/index.md
 - [ロボット掃除機の相場と買い時](https://yamagishi0046-web.github.io/price-watch/robot-vacuum/): 中央値 39,895円、判定「いつも通りの相場」（11/13時点・58件）。平文: https://yamagishi0046-web.github.io/price-watch/robot-vacuum/index.md
 - [加湿器の相場と買い時](https://yamagishi0046-web.github.io/price-watch/humidifier/): 中央値 6,280円、判定「いつも通りの相場」（11/15時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/humidifier/index.md
-- [空気清浄機の相場と買い時](https://yamagishi0046-web.github.io/price-watch/air-purifier/): 中央値 17,880円、判定「いつも通りの相場」（11/11時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/air-purifier/index.md
-- [除湿機の相場と買い時](https://yamagishi0046-web.github.io/price-watch/dehumidifier/): 中央値 21,800円、判定「いつも通りの相場」（11/11時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/dehumidifier/index.md
-- [電気シェーバーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/shaver/): 中央値 6,480円、判定「いつも通りの相場」（11/11時点・47件）。平文: https://yamagishi0046-web.github.io/price-watch/shaver/index.md
+- [空気清浄機の相場と買い時](https://yamagishi0046-web.github.io/price-watch/air-purifier/): 中央値 17,880円、判定「いつも通りの相場」（11/18時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/air-purifier/index.md
+- [除湿機の相場と買い時](https://yamagishi0046-web.github.io/price-watch/dehumidifier/): 中央値 21,800円、判定「いつも通りの相場」（11/18時点・60件）。平文: https://yamagishi0046-web.github.io/price-watch/dehumidifier/index.md
+- [電気シェーバーの相場と買い時](https://yamagishi0046-web.github.io/price-watch/shaver/): 中央値 6,730円、判定「いつも通りの相場」（11/18時点・50件）。平文: https://yamagishi0046-web.github.io/price-watch/shaver/index.md
 
 ## その他
 
